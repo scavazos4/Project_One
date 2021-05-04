@@ -5,13 +5,13 @@
   duplicates, empty fields etc. 
 2 narrative = most populat location/size of house purchased. 
 3 purchases per zip code.
-  sq ft per zip code
-  sq ft price
+  *sq ft per zip code
+  *sq ft price
   average room count per zip code
   heat map of the city
   types of purchases (conde, residnece etc. 
-pir chart of zip codes
-box and whisker plot of sale price per zip code
+  pir chart of zip codes
+  *box and whisker plot of sale price per zip code
 
 
 4 describe data in simplify data/ make sure everyone knows what we are talking about
